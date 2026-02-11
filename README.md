@@ -1,16 +1,17 @@
-## Hi there 👋
+# Allan Meireles — QA em Formação 🧪
 
-<!--
-**allanMeireles1/allanMeireles1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA em formação com foco em **testes manuais**, **testes de API** e **automação web**, atuando de forma prática em projetos simulados com documentação e evidências.
 
-Here are some ideas to get you started:
+## 🚀 O que estou fazendo agora
+- Criação de **casos de teste manuais** (funcional, regressão, smoke)
+- **Reporte de bugs** com descrição clara e evidências
+- **Testes de API** utilizando Postman
+- **Automação web** com Cypress *(em progresso)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfólio
+- **qa-intensive-allan** → jornada prática de QA (12 semanas)
+- **qa-manual-pack** → casos de teste e bug reports
+- **qa-automation-cypress** → automação E2E
+
+## 🛠 Stack
+Testes Manuais | Postman | Cypress | Git | GitHub | SQL Básico
