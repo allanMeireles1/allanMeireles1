@@ -10,8 +10,6 @@ QA em formação com foco em **testes manuais**, **testes de API** e **automaç�
 
 ## 📂 Portfólio
 - **qa-intensive-allan** → jornada prática de QA (12 semanas)
-- **qa-manual-pack** → casos de teste e bug reports
-- **qa-automation-cypress** → automação E2E
 
 ## 🛠 Stack
 Testes Manuais | Postman | Cypress | Git | GitHub | SQL Básico
