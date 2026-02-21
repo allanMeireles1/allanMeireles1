@@ -64,11 +64,11 @@ Meu objetivo é atuar como QA Júnior ou estagiário, contribuindo para a qualid
 
 <img 
     align="left" 
-    alt="Linux Mint" 
-    title="Linux Mint"
+    alt="Jira" 
+    title="Jira"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
 <img 
     align="left" 
@@ -78,29 +78,26 @@ Meu objetivo é atuar como QA Júnior ou estagiário, contribuindo para a qualid
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" 
 />
-<img 
-    align="left" 
-    alt="Jira" 
-    title="Jira"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
-/>
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=allanMeireles1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanMeireles1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanMeireles1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
